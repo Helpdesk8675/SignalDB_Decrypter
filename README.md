@@ -10,5 +10,7 @@ Attachments: C:\Users\<Username>\AppData\Roaming\Signal\attachments.noindex
 Signal for Desktop DB locations in different operations systems :
 
 Windows: C:\Users\<Username>\AppData\Roaming\Signal\sql\db.sqlite 
+
 Linux: ~/.config/Signal/sql/db.sqlite
+
 Mac: ~/Library/Application Support/Signal/sql/db.sqlite
